@@ -293,6 +293,19 @@ section.portfolio {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
   text-align:center;
+ 
+}
+
+.panel-warning{
+ 	color: #e8980d;
+  	background-color: white;
+  	border-color:#ADD8E6;
+}
+
+.panel-warning > .panel-heading{
+ 	color: white;
+  	background-color:#e8980d;
+  	border-color: #1ab3e4;
 }
 
 .panel-default {
